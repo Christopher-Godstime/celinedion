@@ -1,0 +1,58 @@
+html {
+	background-color: #eeeeee;
+	font-family: helvetica, arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
+
+h1 {
+	margin: 0;
+}
+
+.header {
+	background-color: greenyellow;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+.container {
+	background-color: white;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.content {
+	padding: 10px;
+}
+
+.nav{
+	width: 180px;
+	float: left;
+}
+
+.main {
+	width: 600px;
+	float: right;
+}
+
+.footer {
+	clear: both;
+	pading: 10px;
+	background-color: #999;
+	color: white;
+	text-align: right;
+}
+
+.selected {
+	font-weight: bold;
+}
+
+.full-list {
+	list-style-type: none;
+	padding: 0;
+}
